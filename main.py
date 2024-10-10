@@ -1,4 +1,4 @@
-''' This project enables user to input a string and then turns the string into its Morse Code equivalent, have fun!'''
+''' This project enables user to input a string and then turns the string into its Morse Code equivalent, have fun!!'''
 
 morse_code_dict = {
     'A': '.-', 'B': '-...', 'C': '-.-.', 'D': '-..', 'E': '.',
